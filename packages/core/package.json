@@ -1,0 +1,9 @@
+{
+    "name": "@itps/core",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./index.ts",
+    "dependencies": {
+        "@itps/types": "workspace:*"
+    }
+}
